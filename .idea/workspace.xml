@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2064d484-fb36-46b6-89b2-137b9cdbafbb" name="Changes" comment="Add README.md file, no screenshot" />
+    <list default="true" id="2064d484-fb36-46b6-89b2-137b9cdbafbb" name="Changes" comment="Change IntelliJ SS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,19 +28,22 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2VWHBOxKyRAXzeZcD3R03kcmyTX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +77,39 @@
       <option name="project" value="LOCAL" />
       <updated>1694945238166</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add IntelliJ SS">
+      <option name="closed" value="true" />
+      <created>1694945389453</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945389453</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add addition function!">
+      <option name="closed" value="true" />
+      <created>1694945523091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945523091</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add addition function!">
+      <option name="closed" value="true" />
+      <created>1694945612979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945612979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change IntelliJ SS">
+      <option name="closed" value="true" />
+      <created>1694945662137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694945662137</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,9 +124,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit for COMP3111Lex" />
     <MESSAGE value="Append opening message" />
     <MESSAGE value="Add README.md file, no screenshot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md file, no screenshot" />
+    <MESSAGE value="Add IntelliJ SS" />
+    <MESSAGE value="Add addition function!" />
+    <MESSAGE value="Change IntelliJ SS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change IntelliJ SS" />
   </component>
 </project>
