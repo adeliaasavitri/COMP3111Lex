@@ -3,7 +3,7 @@
 <p><strong>SID: </strong>20818128</p>
 
 <h2>Screenshot I: IntelliJ</h2>
-<img src ="./IntelliJ.jpg" />
+<img src ="./IntelliJSS.jpg" />
 
 <h2>Screenshot II: Github</h2>
 
