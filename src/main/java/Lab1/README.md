@@ -6,4 +6,6 @@
 <img src ="./IntelliJ.jpg" />
 
 <h2>Screenshot II: Github</h2>
+<img src ="./Github.jpg" />
+
 
